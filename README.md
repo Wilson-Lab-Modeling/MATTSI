@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/537059449.svg)](https://zenodo.org/badge/latestdoi/537059449)
+
+
 # MATTSI
 ##Model for Advanced Thermal Time-Series Inversion
 
